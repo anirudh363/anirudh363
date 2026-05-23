@@ -103,4 +103,4 @@ NumPy • Pandas • scikit-learn • TensorFlow • OR-Tools
 
 📧 **Email:** [anirudhsandilya363@gmail.com](mailto:anirudhsandilya363@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/anirudh-sandilya](https://linkedin.com/in/anirudh-sandilya)  
-🌐 **Portfolio:** [sandilya.web.app](https://sandilya.web.app)
+🌐 **Portfolio:** [sandilya.web.app](https://sandilya.xyz)
